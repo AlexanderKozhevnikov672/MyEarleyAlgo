@@ -1,0 +1,18 @@
+4 3 8
+STUV
+abc
+S -> cT
+S -> bS
+T -> Uc
+T -> cTa
+U -> cV
+U -> bUb
+V -> bVc
+V -> a
+S
+5
+cccaa
+bbccac
+bbbbbbb
+ccbcbacbca
+bccbcabca

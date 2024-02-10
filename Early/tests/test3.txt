@@ -1,0 +1,16 @@
+3 2 6
+SUT
+ab
+S -> aSbS
+S -> bSaS
+S -> 
+T -> SaU
+U -> ST
+U ->
+S
+5
+
+abb
+abaabb
+aaabba
+abbabaabba
